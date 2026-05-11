@@ -1,8 +1,8 @@
 # Bosso Lights for Home Assistant
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
-[![GitHub Release](https://img.shields.io/github/release/bosso-family/hass-bosso.svg)](https://github.com/bosso-family/hass-bosso/releases)
-[![License](https://img.shields.io/github/license/bosso-family/hass-bosso.svg)](LICENSE)
+[![GitHub Release](https://img.shields.io/github/release/Bosso-Family/hass-bosso.svg)](https://github.com/Bosso-Family/hass-bosso/releases)
+[![License](https://img.shields.io/github/license/Bosso-Family/hass-bosso.svg)](LICENSE)
 
 Home Assistant integration for [Bosso](https://bosso.biz) smart lights. Control your devices, change colors, apply effects and presets — all from your Home Assistant dashboard, automations, and voice assistants.
 
@@ -24,7 +24,7 @@ This is the preferred way. Updates roll out automatically.
 1. Make sure [HACS](https://hacs.xyz) is installed in your Home Assistant.
 2. In Home Assistant, go to **HACS → Integrations**.
 3. Click the three-dot menu (top-right) → **Custom repositories**.
-4. Add this repository: `https://github.com/bosso-family/hass-bosso`
+4. Add this repository: `https://github.com/Bosso-Family/hass-bosso`
 5. Category: **Integration**
 6. Click **Add**.
 7. Find **Bosso Lights** in the HACS integrations list and click **Install**.
@@ -34,7 +34,7 @@ This is the preferred way. Updates roll out automatically.
 
 ### Option 2 — Manual installation
 
-1. Download the latest release from the [Releases page](https://github.com/bosso-family/hass-bosso/releases).
+1. Download the latest release from the [Releases page](https://github.com/Bosso-Family/hass-bosso/releases).
 2. Unzip and copy the `custom_components/bosso/` folder into your Home Assistant `config/custom_components/` directory.
 3. Restart Home Assistant.
 
@@ -129,7 +129,7 @@ Then check **Settings → System → Logs** when the issue happens.
 
 ## Reporting issues
 
-When opening a [GitHub issue](https://github.com/bosso-family/hass-bosso/issues), please include:
+When opening a [GitHub issue](https://github.com/Bosso-Family/hass-bosso/issues), please include:
 
 - Home Assistant version
 - Integration version (see `manifest.json`)

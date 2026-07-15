@@ -1,3 +1,4 @@
+
 {
   "domain": "bosso",
   "name": "Bosso Lights",
@@ -8,5 +9,5 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/Bosso-Family/hass-bosso/issues",
   "requirements": [],
-  "version": "1.1.0"
+  "version": "2.1.0"
 }
